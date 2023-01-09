@@ -1,0 +1,10 @@
+<html>
+<head><h1>Introduction to Front-end development</h1></head>
+<body><p>A front end development architectscand dvelops client part of websites and application using web technologies:</p>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+</body>
+</html>
